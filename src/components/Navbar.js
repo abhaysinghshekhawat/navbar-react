@@ -23,9 +23,9 @@ const Navbar = () => {
 
   <div id={toggler?"trans-div":" "}>
     <div className={toggler?"nav-container-mobile":"nav-links-container"}>
-      <a href="#" className="nav-links">HOME</a>
-      <a href="#" className="nav-links">CONTACT</a>
-      <a href="#" className="nav-links">LOGIN</a>
+      <a href="https://localhost" className="nav-links">HOME</a>
+      <a href="https://localhost" className="nav-links">CONTACT</a>
+      <a href="https://localhostlocalhostt" className="nav-links">LOGIN</a>
     </div>
   </div>
     
